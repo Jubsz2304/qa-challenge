@@ -120,4 +120,4 @@ Contributions are welcome! Feel free to open issues and pull requests.
 
 - The project wiki details the testing strategies used for this project, as well as possible improvements.<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;👇🏾 👇🏾 👇🏾 <br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/mrlebass/qa-challenge/wiki" target="_blank"><img src="https://img.shields.io/badge/-GitWiki-%23333?&style=flat&logo=github" target="_blank"></a>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/Jubsz2304/qa-challenge/wiki" target="_blank"><img src="https://img.shields.io/badge/-GitWiki-%23333?&style=flat&logo=github" target="_blank"></a>
