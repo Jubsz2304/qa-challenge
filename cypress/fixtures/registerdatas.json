@@ -1,0 +1,23 @@
+{
+  "name": "Harry",
+  "surname": "Potter",
+  "Tax_ID": "800.772.750-71",
+  "birth_date": "31/07/1980", 
+  "email": "harrypotter2@cypress.io",
+  "password": "teste@123",
+  "zip_code": "03087-010",
+  "residencial_number": "123",
+  "complement": "567",
+  "neighborhood": "Parque São Jorge",
+  "adress": "Rua Antônio Macedo",
+
+  "wname": "H",
+  "wsurname": "P",
+  "wTax_ID": "797.414.548",
+  "wbirth_date": "31/13/1980", 
+  "wemail": "harrypottercypress3.io",
+  "wpassword": "12",
+  "wzip_code": "03087",
+  "wresidencial_number": "000",
+  "wcomplement": "000"
+}
